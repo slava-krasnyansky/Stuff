@@ -1,2 +1,2 @@
 # Stuff
-Different little pieces of code
+Different little snippets of code
